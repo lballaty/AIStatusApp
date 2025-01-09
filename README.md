@@ -21,9 +21,3 @@ System Status Dashboard is a single-page web application that monitors and displ
 - **Backend:** Node.js with Express (for API handling and data processing)
 - **Database:** MongoDB (for storing configurations and historical data)
 
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/system-status-dashboard.git
-   cd system-status-dashboard
