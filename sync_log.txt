@@ -1,0 +1,27 @@
+\e[32m✅ SUCCESS: Created and pushed AIStatusApp to GitHub.\e[0m
+\e[33m⚠️  WARNING: Local repo 'BungalowBookingCalendar' is missing in GitHub. Creating now...\e[0m
+\e[32m✅ SUCCESS: AIStatusApp is up to date.\e[0m
+\e[32m✅ SUCCESS: Created and pushed AIStatusApp to GitHub.\e[0m
+\e[33m⚠️  WARNING: Local repo 'BungalowBookingCalendar' is missing in GitHub. Creating now...\e[0m
+\e[32m✅ SUCCESS: AIStatusApp is up to date.\e[0m
+\e[32m✅ SUCCESS: Created and pushed AIStatusApp to GitHub.\e[0m
+\e[33m⚠️  WARNING: Local repo 'BungalowBookingCalendar' is missing in GitHub. Creating now...\e[0m
+\e[32m✅ SUCCESS: AIStatusApp is up to date.\e[0m
+\e[32m✅ SUCCESS: Created and pushed AIStatusApp to GitHub.\e[0m
+\e[33m⚠️  WARNING: Local repo 'BungalowBookingCalendar' is missing in GitHub. Creating now...\e[0m
+\e[32m✅ SUCCESS: AIStatusApp is up to date.\e[0m
+\e[32m✅ SUCCESS: Created and pushed AIStatusApp to GitHub.\e[0m
+\e[33m⚠️  WARNING: Local repo 'BungalowBookingCalendar' is missing in GitHub. Creating now...\e[0m
+\e[32m✅ SUCCESS: Created and pushed AIStatusApp to GitHub.\e[0m
+\e[33m⚠️  WARNING: Local repo 'BungalowBookingCalendar' is missing in GitHub. Creating now...\e[0m
+\e[32m✅ SUCCESS: AIStatusApp is up to date.\e[0m
+\e[32m✅ SUCCESS: AIStatusApp is up to date.\e[0m
+\e[32m✅ SUCCESS: Created and pushed AIStatusApp to GitHub.\e[0m
+\e[33m⚠️  WARNING: Local repo 'BungalowBookingCalendar' is missing in GitHub. Creating now...\e[0m
+\e[32m✅ SUCCESS: AIStatusApp is up to date.\e[0m
+\e[33m⚠️  WARNING: Local repository 'AIStatusApp' has uncommitted changes. Skipping sync for this repo.\e[0m
+\e[33m⚠️2025-02-11 08:31:10  WARNING: Local repository 'AIStatusApp' has uncommitted changes. Skipping sync for this repo.\e[0m
+\e[33m⚠️2025-02-11 08:37:32  WARNING: Local repository 'AIStatusApp' has uncommitted changes. Skipping sync for this repo.\e[0m
+[33m⚠️  2025-02-11 08:40:51 WARNING: Local repository 'AIStatusApp' has uncommitted changes. Skipping sync for this repo.[0m
+[33m⚠️  2025-02-11 08:43:01 WARNING: Local repository 'AIStatusApp' has uncommitted changes. Skipping sync for this repo.[0m
+[33m⚠️  2025-02-11 08:52:04 WARNING: Local repository 'AIStatusApp' has uncommitted changes.[0m
